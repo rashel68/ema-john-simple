@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+}
+.logo{
+    width: 200px;
+    margin: 10px 0px;
+}
+.navbar{
+    background-color: black;
+    padding: 5px 0px;
+}
+.navbar a{
+    text-decoration: none;
+    margin: 0px 8px;
+    padding: 5px 8px;
+    font-size: 20px;
+    color: white;
+}
+.navbar a:hover{
+    background-color: lightgray;
+}
